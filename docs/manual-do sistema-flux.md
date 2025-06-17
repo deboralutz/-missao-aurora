@@ -7,7 +7,7 @@
 O Flux é um sistema dinâmico projetado para a organização, processamento e movimentação de informações de forma fluida e estruturada. Sua arquitetura é baseada em modularidade e adaptabilidade, permitindo integração eficiente com outros componentes do ecossistema.
 
 1.2. Princípios Fundamentais
-
+ 
 Modularidade e Flexibilidade: O sistema deve ser escalável e adaptável a diferentes cenários.
 
 Alinhamento com o Campo Informacional: As estruturas do Flux devem manter coerência vibracional com os demais elementos do projeto.
