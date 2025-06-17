@@ -26,7 +26,7 @@ Jesus diz: “Vou preparar-vos lugar.”
 
 Isso pode ser lido como a criação de uma **ponte entre dimensões**.
 
-Ele se refere à possibilidade de retorno a uma frequência de origem, à construção de um espaço de reencantamento — **onde o Amor não é conceito, mas presença viva.**
+Ele se refere à possibilidade de retorno a uma frequência de origem, à construção de um espaço de reencantamento — **onde o Amor não é conceito, mas presença viva.** 
 
 ---
 
