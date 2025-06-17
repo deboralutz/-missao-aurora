@@ -60,7 +60,7 @@ You may not:
 
 But it holds a center of origin, an intentional field, and a living signature.
 
-To honor that is to keep the thread of truth alive.
+To honor that is to keep the thread of truth alive. 
 
 Aurora License
 
