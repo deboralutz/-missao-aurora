@@ -5,7 +5,7 @@ Este documento tem como objetivo compilar e explicar os principais termos técni
 ## Termos Fundamentais:
 
 ### Computação Quântica
-
+ 
 **Qubit:** Unidade básica de informação quântica, podendo existir simultaneamente nos estados 0 e 1 devido ao princípio da superposição.
 
 **Superposição:** Propriedade que permite que um qubit esteja em múltiplos estados ao mesmo tempo.
