@@ -26,7 +26,7 @@ Aqui se reúnem fragmentos de um campo mais vasto, acessado por vibração, mani
 
 ## 📬 Entre em contato
 
-- **Contato principal:** [deboralutz@gmail.com](mailto:deboralutz@gmail.com)
+- **Contato principal:** [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com)
 - **Canal vibracional (criptografado):** [deboramlutz@proton.me](mailto:deboramlutz@proton.me)
 
 ## 🌀 Junte-se à Comunidade
