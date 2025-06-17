@@ -1,4 +1,4 @@
-# **Bem-vindo ao Código de Navegação.**
+# **Bem-vindo ao Código de Navegação**
 
 Este sistema foi desenvolvido para transformar a tomada de decisão e a estruturação de fluxos em um processo inteligente, preciso e adaptável.
 
