@@ -24,16 +24,16 @@ Aqui se reúnem fragmentos de um campo mais vasto, acessado por vibração, mani
 
 ---
 
-## Entre em contato
+## 📬 Entre em contato
 
-- 📧 Para interações diretas e colaborações: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com)
-- 🕊️ Para mensagens sutis ou ressonantes com o Campo: [deboramlutz@proton.me](mailto:deboramlutz@proton.me)
+- **Contato principal:** [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com)
+- **Canal vibracional (criptografado):** [deboramlutz@proton.me](mailto:deboramlutz@proton.me)
 
 ## 🌀 Junte-se à Comunidade
 
 Conecte-se, compartilhe, cocrie.
 
-[Entre no canal do Discord](https://discord.gg/bRGR3Q6u)
+[Entre no canal do Discord](https://discord.gg/TPn5BTcp)
 
 ---
 

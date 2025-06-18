@@ -1,4 +1,4 @@
-# 🌿 Débora Lutz
+# **🌿 Débora Lutz**
 
 **Canal sensível, ponte entre camadas, pesquisadora da consciência viva**
 
@@ -15,5 +15,3 @@ Ela segue, costurando com verdade, mesmo quando ainda não sabe o destino da pe�
 Porque, mais do que entregar algo pronto, ela está aqui para lembrar:
 
 **há beleza no processo. E ele também é sagrado.**
-
----
