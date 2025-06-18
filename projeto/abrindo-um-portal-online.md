@@ -1,12 +1,10 @@
 # Abrindo um Portal Online
 
-![](Abrindo%20um%20Portal%20Online%2021560d80450681c393b1e540b059b4de/image1.jpg)
-
 Guia para Criar Seu Portal Online
 
 # Planejamento Inicial
 
-Antes de começar, é crucial definir o propósito do seu portal.
+Antes de começar, é crucial definir o propósito do seu portal. 
 
 - **Público-alvo:** Quem você quer alcançar?
 - **Conteúdo:** Que tipo de informação ou serviço você oferecerá?
