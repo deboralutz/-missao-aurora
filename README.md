@@ -33,7 +33,7 @@ Aqui se reúnem fragmentos de um campo mais vasto, acessado por vibração, mani
 
 Conecte-se, compartilhe, cocrie.
 
-[Entre no canal do Discord](https://discord.gg/bRGR3Q6u)
+[Entre no canal do Discord](https://discord.gg/TPn5BTcp)
 
 ---
 
