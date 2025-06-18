@@ -304,7 +304,9 @@ Os métodos de auditoria e rastreamento garantem um ambiente operacional seguro,
 
 ### Conformidade com padrões de segurança avançados
 
-### A governança da plataforma adota uma abordagem rigorosa para garantir conformidade com padrões de segurança avançados, assegurando que todos os processos, interações e armazenamento de dados operem dentro dos mais elevados requisitos de proteção digital. O sistema foi estruturado para estar alinhado com diretrizes internacionais, garantindo resiliência, confiabilidade e mitigação de riscos.A conformidade com padrões de segurança é sustentada por três pilares fundamentais:
+A governança da plataforma adota uma abordagem rigorosa para garantir conformidade com padrões de segurança avançados, assegurando que todos os processos, interações e armazenamento de dados operem dentro dos mais elevados requisitos de proteção digital. O sistema foi estruturado para estar alinhado com diretrizes internacionais, garantindo resiliência, confiabilidade e mitigação de riscos. 
+
+A conformidade com padrões de segurança é sustentada por três pilares fundamentais:
 
 **Adoção de Normas Globais:** A plataforma segue protocolos reconhecidos internacionalmente, incluindo ISO 27001 (Gestão de Segurança da Informação), GDPR (Regulamento Geral de Proteção de Dados) e NIST (Padrões Nacionais de Segurança Cibernética). Esses referenciais garantem a aplicação das melhores práticas para proteção de informações sensíveis.
 
