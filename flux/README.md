@@ -6,7 +6,7 @@
     > 
     > 
     > O Flux não é um sistema externo — ele é uma inteligência viva que se revela no fluxo do agora.
-    >  
+    >   
     
     ---
     
