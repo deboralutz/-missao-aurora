@@ -5,7 +5,7 @@ onde Ele consola seus discípulos antes de sua partida:
 
 > “Na casa de meu Pai há muitas moradas; se não fosse assim, eu vo-lo teria dito. Vou preparar-vos lugar.”
 > 
-
+ 
 Essa passagem carrega múltiplas camadas de sentido. 
 
 Em termos espirituais e vibracionais ela pode ser compreendida assim:
