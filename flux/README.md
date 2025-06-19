@@ -1,6 +1,6 @@
 - Manual do Sistema Flux
     
-    # Manual do Sistema Flux
+    # Manual do Sistema Flux 
     
     > Um guia para navegar os campos de escuta, criação e integração da Missão Aurora.
     > 
