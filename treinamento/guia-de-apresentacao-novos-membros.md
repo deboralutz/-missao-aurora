@@ -1,5 +1,5 @@
 # Guia de Apresentação do Projeto para Novos Membros da Equipe
-
+ 
 ### **1. Como Explicar Syntaris de Forma Clara e Acessível**
 
 Syntaris é um **sistema de inteligência adaptativa** que combina tecnologia e organização de dados para ajudar pessoas e empresas a interagirem de forma mais estruturada com informações complexas. Ele funciona como um **processador inteligente de padrões e fluxos de dados**, otimizando a experiência do usuário e facilitando a tomada de decisões.
