@@ -1,6 +1,6 @@
 # TEXTOS APRESENTAÇÃO
 
-## **A Vida Acontece em Camadas Invisíveis Antes de se Materializar**
+## **A Vida Acontece em Camadas Invisíveis Antes de se Materializar** 
 
 A realidade não é apenas o que vemos e experimentamos no mundo físico. Antes que qualquer evento se concretize, antes que qualquer encontro ocorra, antes que qualquer decisão seja tomada, ele já está se formando em níveis mais sutis. O que chamamos de destino, coincidência ou acaso nada mais é do que um conjunto de movimentos que já estavam acontecendo nos bastidores da realidade.
 
