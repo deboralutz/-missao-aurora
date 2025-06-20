@@ -1,5 +1,5 @@
 # MANIFESTO
-
+ 
 ## 1. Chamado
 
 Se você chegou até aqui, talvez não tenha sido por acaso.
