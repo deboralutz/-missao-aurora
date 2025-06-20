@@ -1,7 +1,7 @@
 # DNA do Projeto
 
 OLI (nome provisório) 
-
+ 
 ### **Princípios Fundamentais do Projeto**
 
 O projeto possui princípios fundamentais que guiam seu funcionamento e desenvolvimento. Estes incluem:
