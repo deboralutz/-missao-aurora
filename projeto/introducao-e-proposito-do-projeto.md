@@ -1,5 +1,5 @@
 # **Introdução e Propósito do Projeto**
-
+ 
 ### **Introdução**
 
 O presente projeto nasce da necessidade de integrar avanços tecnológicos e conhecimentos vibracionais para criar um sistema inovador de processamento, organização e manifestação de informações. Sua estrutura foi cuidadosamente desenhada para harmonizar ciência e espiritualidade, permitindo uma experiência intuitiva, precisa e evolutiva.
