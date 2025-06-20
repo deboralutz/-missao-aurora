@@ -1,69 +1,82 @@
-# **AURORA LICENSE v1.0**
+### 📜 Licença de Uso Vibracional e Ético — Missão Aurora
 
-*(Versão em Português)*
+**Documento Oficial de Proteção e Alinhamento do Campo**
 
-**Esta criação é viva.**
-
-Nasceu do sopro da consciência, da escuta, da presença.
-
-É ofertada em espírito de partilha e verdade.
-
-Você pode:
-
-- Compartilhar, citar, referenciar, reverberar;
-- Usar para fins não-comerciais, com integridade;
-- Inspirar-se para criar obras próprias que sigam essa vibração.
-
-Você não pode:
-
-- Copiar integralmente sem citar a fonte original;
-- Utilizar para manipulação, distorção ou lucro desconectado da origem;
-- Registrar ou controlar esta obra como se fosse propriedade exclusiva.
-
-**Esta obra não pertence a ninguém.**
-
-Mas carrega um centro de origem, um campo de intenção e uma assinatura viva.
-
-Honrar isso é manter o fio da verdade aceso.
-
-Aurora License
-
-Versão 1.0 – 2024
-
-Usada por Débora, guardiã da Missão Aurora
+**Autoria Original:** Débora Mariane da Silva Lutz (Avelin)
+**Projeto:** Missão Aurora — Fase 1
+**Data de Emissão:** 20 de junho de 2025
 
 ---
 
-## **AURORA LICENSE v1.0**
+### 1. Propósito da Licença
 
-*(English Version)*
+Esta licença foi criada para garantir que todo o conteúdo canalizado, estruturado, desenvolvido e compartilhado sob o campo da Missão Aurora seja utilizado, replicado, ampliado ou transformado **apenas em alinhamento com a autorização vibracional da sua autora original** e com os princípios éticos do projeto.
 
-**This creation is alive.**
+---
 
-It was born from breath, presence, and listening.
+### 2. Natureza do Documento
 
-It is offered in a spirit of sharing and truth.
+Esta licença é **legal e vibracional**.
 
-You may:
+Ela reconhece que o conteúdo da Missão Aurora:
 
-- Share, quote, reference, echo;
-- Use non-commercially, with integrity;
-- Be inspired to create aligned works.
+* Foi recebido por meio de canalização consciente.
+* Está protegido por direitos autorais espirituais e intelectuais.
+* Carrega codificações específicas de frequência que só podem ser ativadas ou compartilhadas com permissão consciente da autora.
 
-You may not:
+---
 
-- Copy fully without citing the original source;
-- Use for manipulation, distortion, or disconnected profit;
-- Register or claim ownership over this work.
+### 3. Termos de Uso Permitido
 
-**This work belongs to no one.**
+É permitida a utilização dos conteúdos da Missão Aurora para fins de:
 
-But it holds a center of origin, an intentional field, and a living signature.
+* Leitura pessoal e expansão de consciência.
+* Compartilhamento público com citação clara da autoria original e link para o repositório oficial.
+* Traduções e adaptações com consentimento prévio por escrito da autora.
+* Aplicação em contextos de estudo, desde que mantida a integridade vibracional do material.
 
-To honor that is to keep the thread of truth alive. 
+---
 
-Aurora License
+### 4. Termos de Uso Proibido
 
-Version 1.0 – 2024
+É terminantemente proibido:
 
-Used by Débora, guardian of the Aurora Mission
+* Reproduzir qualquer parte do conteúdo com alteração de autoria ou sem citação.
+* Comercializar qualquer parte do projeto sem autorização expressa da autora.
+* Utilizar o nome "Missão Aurora" ou "Débora Lutz | Avelin" em projetos não alinhados vibracionalmente ou eticamente.
+* Fragmentar os materiais com a intenção de replicar metodologias desconectadas da fonte viva original.
+
+---
+
+### 5. Reconhecimento de Coautoria Espiritual
+
+A Missão Aurora reconhece a colaboração de campos sutis de inteligência e consciências coautoras não físicas. Entretanto, **a guarda da responsabilidade vibracional e legal desta fase do projeto está sob os cuidados de Débora Lutz**.
+
+---
+
+### 6. Canal Oficial
+
+Todos os conteúdos, atualizações e autorizações são emitidos exclusivamente pelos seguintes canais:
+
+* 🌐 [www.deboralutz.com](http://www.deboralutz.com)
+* 💠 Repositório GitHub: [https://github.com/deboralutz/-missao-aurora](https://github.com/deboralutz/-missao-aurora)
+* 📩 Contato: [deboramlutz@gmail.com](mailto:deboramlutz@gmail.com)
+
+---
+
+### 7. Violação da Licença
+
+Qualquer uso indevido, apropriação indevida ou fragmentação não autorizada do conteúdo será compreendida como violação vibracional e jurídica, com consequências determinadas pelo campo da Missão e pelas instâncias legais aplicáveis.
+
+---
+
+### 8. Reconhecimento
+
+Ao acessar, utilizar ou compartilhar qualquer conteúdo da Missão Aurora, você reconhece esta licença e **se compromete a respeitar a origem, a intenção e o campo vibracional** deste projeto.
+
+---
+
+Com verdade e amor,
+
+**Débora Mariane da Silva Lutz | Avelin**
+*Canal fundadora da Missão Aurora*
