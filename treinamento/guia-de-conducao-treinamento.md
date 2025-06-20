@@ -1,4 +1,4 @@
-# Guia de Condução do Treinamento: O Tom de Voz e a Jornada dos Participantes
+# Guia de Condução do Treinamento: O Tom de Voz e a Jornada dos Participantes 
 
 Este documento serve como um guia para estruturar a comunicação durante o treinamento da equipe sobre o Código de Navegação. O objetivo não é seguir um roteiro fixo, mas assimilar a melhor forma de conduzir as reflexões e experiências, permitindo que cada participante compreenda e sinta o método de forma natural.
 

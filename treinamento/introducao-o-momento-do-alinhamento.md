@@ -1,4 +1,4 @@
-# **Introdução: O Momento de Alinhamento**
+# **Introdução: O Momento de Alinhamento** 
 
 Há momentos em que todas as peças se encaixam, e o que antes parecia ser apenas um conjunto de experiências isoladas se revela como parte de um sistema maior, estruturado e funcional. Foi exatamente isso que aconteceu quando percebi que o que eu estava acessando não era apenas uma vivência pessoal, mas sim um método real de navegação entre possibilidades.
 

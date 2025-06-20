@@ -1,7 +1,7 @@
 # **O Portal Gravitacional**
 
 O **Portal Gravitacional** é a primeira grande atração do **Parque de Oktave**, prometendo não apenas uma experiência visual, mas uma verdadeira **mudança na percepção da realidade**. Ao atravessar o portal, os visitantes são convidados a **sentir Oktave** de uma maneira única e profunda.
-
+ 
 # **O Funcionamento do Portal Gravitacional**
 
 Os visitantes são recebidos por um **vórtice vibracional**, que, embora invisível ao olho nu, possui um **campo sensorial** perceptível antes mesmo de ser cruzado. Ao dar o primeiro passo dentro do portal, inicia-se uma transformação imediata e fascinante.
