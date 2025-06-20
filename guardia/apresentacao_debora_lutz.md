@@ -1,4 +1,4 @@
-### 🌟 Apresentação de Débora Mariane da Silva Lutz
+### 🌟 Apresentação de Débora Lutz
 
 **Canal Fundadora e Coautora da Missão Aurora**
 
