@@ -3,7 +3,7 @@
 ### **Ato I – A Chegada ao Teatro**
 
 Imagine-se caminhando por uma rua desconhecida. Você não sabe exatamente para onde está indo, mas há algo no ar, uma sensação de que **algo está prestes a acontecer.**
-
+ 
 Ao dobrar a esquina, encontra um teatro imponente, mas discreto. **O Teatro Oktave.** A porta está entreaberta, convidativa. Sem hesitar, você entra.
 
 O ambiente é amplo, iluminado por uma luz suave. O palco está montado, mas vazio. As poltronas da plateia esperam ocupantes. Você sente a presença de algo maior do que pode ver. Você se senta, acreditando que veio para assistir a uma apresentação.
