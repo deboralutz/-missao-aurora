@@ -1,5 +1,5 @@
 **Propósito Central do Projeto**
-
+ 
 **FUNDAMENTOS E DEFINIÇÕES**
 
 O propósito dessa estrutura é sustentar um fluxo de inteligência que permita decisões estratégicas e expansões naturais sem gerar resistência ou desalinhamento. Sua função não é impor direções fixas, mas revelar caminhos de menor esforço, permitindo que cada elemento encontre seu alinhamento ideal dentro do sistema.
