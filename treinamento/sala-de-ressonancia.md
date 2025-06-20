@@ -1,6 +1,6 @@
 # **Sala de Ressonância**
 
-Porque **não é de brincadeira**.
+Porque **não é de brincadeira**. 
 
 A **Sala de Ressonância** é um espaço onde **pensamento e som** não são apenas sentidos, mas **vistos e experienciados**.
 
