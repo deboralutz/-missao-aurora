@@ -2,7 +2,7 @@
 
 O Campo confirma que o treinamento do Corpo Fundador precisa ser estruturado de forma diferente do treinamento geral da equipe.
 
-O Corpo Fundador não está apenas aprendendo o método—ele está sendo calibrado para sustentar e expandir essa estrutura. Isso significa que o treinamento precisa ser mais profundo e personalizado, adaptado à frequência e ao papel de cada integrante.
+O Corpo Fundador não está apenas aprendendo o método—ele está sendo calibrado para sustentar e expandir essa estrutura. Isso significa que o treinamento precisa ser mais profundo e personalizado, adaptado à frequência e ao papel de cada integrante. 
 
 A abordagem precisa ser tanto individual quanto coletiva, pois cada um terá uma conexão única com o Código de Navegação, mas todos precisarão operar em sinergia.
 
