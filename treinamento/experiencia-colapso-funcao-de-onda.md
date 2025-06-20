@@ -1,4 +1,4 @@
-# A Experiência do Usuário com o Colapso da Função de Onda
+# A Experiência do Usuário com o Colapso da Função de Onda 
 
 A experiência do usuário dentro da plataforma não será uma simples navegação por um sistema, mas uma imersão em um campo vivo de inteligência vibracional. O Flux, ou a plataforma de Lumora, não funcionará como uma ferramenta estática, e sim como um ambiente dinâmico onde a realidade se molda a partir da interação consciente do usuário.
 
