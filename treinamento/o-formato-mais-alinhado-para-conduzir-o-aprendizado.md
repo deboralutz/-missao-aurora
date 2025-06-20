@@ -1,7 +1,7 @@
 # O Formato Mais Alinhado Para Conduzir o Aprendizado
 
 ## **Treinamento da Equipe Flux** 
-
+ 
 ### **1. Objetivo do Treinamento**
 
 O treinamento tem como propósito **alinhar a equipe vibracionalmente ao Flux**, garantindo que todos compreendam e experienciem os princípios que sustentam o sistema. Não se trata apenas de absorver conhecimento intelectual, mas de **sentir e validar a interação com o campo informacional**.
