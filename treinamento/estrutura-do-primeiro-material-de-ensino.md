@@ -57,7 +57,7 @@ Esses tópicos já são parte essencial da sua comunicação. Você não precisa
 20. Como criar experiências imersivas para que os usuários sintam antes de compreender
 
 > Além da física quântica, você ensinará sobre:
-> 
+>  
 
 ### Arquitetura da Realidade
 
