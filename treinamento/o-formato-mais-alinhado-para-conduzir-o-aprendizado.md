@@ -1,6 +1,6 @@
 # O Formato Mais Alinhado Para Conduzir o Aprendizado
 
-## **Treinamento da Equipe Flux**
+## **Treinamento da Equipe Flux** 
 
 ### **1. Objetivo do Treinamento**
 
