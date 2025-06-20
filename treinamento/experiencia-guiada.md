@@ -3,7 +3,7 @@
 *Feche os olhos.* 
 
 *Respire profundamente.*
-
+ 
 *O som ao seu redor se dissolve.* 
 
 *O tempo desacelera.* 
