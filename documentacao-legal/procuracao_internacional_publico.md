@@ -1,5 +1,3 @@
-# procuracao_internacional_publico
-
 # Procuração Internacional com Apostilamento de Haia (Versão Pública)
 
 Este documento concede autoridade de representação internacional para assuntos jurídicos, administrativos e operacionais da Missão Aurora.
